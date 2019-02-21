@@ -11,6 +11,19 @@ import csv
 import redcap
 from redcap import Project, RedcapError
 
+URL = 'https://redcap.nubic.northwestern.edu/redcap/api/'
+API_KEY = '9A8D419989B3518D4291C3F82AEE6A7E'
+project = Project(URL, API_KEY)
+
+data = project.export_records(format = 'df')
+# print(data)
+
+record_list = project.export_records(fields = [project.def_field], export_survey_fields = True, format = 'df')
+print(record_list)
+
+data.to_csv('/Users/mkh1805/Box/NU-SCRIPT/REDCap/TestExport/records_all02201023py.csv', header=True,encoding = 'utf-8', sep = ',')
+
+# REDCap API suggested - not working (due to pycurl)
 # import pycurl
 
 # buf = io.StringIO()
@@ -29,17 +42,8 @@ from redcap import Project, RedcapError
 # print(buf.getvalue())
 # buf.close()
 
-URL = 'https://redcap.nubic.northwestern.edu/redcap/api/'
-API_KEY = '9A8D419989B3518D4291C3F82AEE6A7E'
-project = Project(URL, API_KEY)
 
-data = project.export_records(format = 'df')
-# print(data)
 
-record_list = project.export_records(fields = [project.def_field], export_survey_fields = True, format = 'df')
-print(record_list)
-
-data.to_csv('/Users/mkh1805/Box/NU-SCRIPT/REDCap/TestExport/records_all02190355py.csv', header=True,encoding = 'utf-8', sep = ',')
 # lines = list(data)
 
 # print(project.forms[0:10],'\n')
