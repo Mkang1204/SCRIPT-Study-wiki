@@ -1,4 +1,4 @@
-# SCRIPT-Study-wiki]
+# SCRIPT-Study-wiki
 
 
 ## When:
