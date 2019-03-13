@@ -26,7 +26,7 @@ In addition, we now have a SCRIPT Study wiki and will have a SCRIPT Website for 
 
 Thank you again for all your participation.
 
-Sincerely,
+Sincerely,\
 Rich
 
 
