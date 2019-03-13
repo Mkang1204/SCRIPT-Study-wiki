@@ -1,5 +1,4 @@
 Welcome to the [SCRIPT](https://github.com/NUSCRIPT/study-wiki/wiki/1.-SCRIPT-Summary) Study wiki!
-                          ![SCRIPT logo](https://github.com/NUSCRIPT/study-wiki/blob/master/statics/images/SCRIPT%20logo.png)
 
 # Upcoming meetings
 ## When: 	
@@ -27,7 +26,7 @@ In addition, we now have a SCRIPT Study wiki and will have a SCRIPT Website for 
 
 Thank you again for all your participation.
 
-Sincerely,\
+Sincerely,
 Rich
 
 
