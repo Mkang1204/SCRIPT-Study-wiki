@@ -31,7 +31,7 @@ In addition, we now have a SCRIPT Study wiki and will have a SCRIPT Website for 
 Thank you again for all your participation.
 
 Sincerely,\
-Rich
+Rich- Test ----
 
 ### Data Download
 [example](https://github.com/Mkang1204/SCRIPT-Study-wiki/blob/master/docs/study%20wiki%20graph1.0.png)
