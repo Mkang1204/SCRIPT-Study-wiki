@@ -30,6 +30,9 @@ In addition, we now have a SCRIPT Study wiki and will have a SCRIPT Website for 
 
 Thank you again for all your participation.
 
+
+
+
 Sincerely,\
 Rich- Test ----
 
@@ -45,3 +48,6 @@ http://www.fluomics.org/ \
 https://cvisb.org/ \
 http://www.omics4tb.org/
  
+ 
+### Light up github code
+https://github.com/Mkang1204/SCRIPT-Study-wiki/blob/master/REDCap_ETL/red_encryption.py/#L1-L30
