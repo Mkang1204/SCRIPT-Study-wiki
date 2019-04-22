@@ -47,7 +47,7 @@ https://kanekalla.github.io/ \
 http://www.fluomics.org/ \
 https://cvisb.org/ \
 http://www.omics4tb.org/
-https://neo.jfrog.io/neo/api/npm/npm/neuler (Graph algo app)
+https://neo.jfrog.io/neo/api/npm/npm/neuler (Graph algo app) - https://install.graphapp.io/
  
  
 ### Light up github code
